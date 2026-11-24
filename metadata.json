@@ -1,0 +1,8 @@
+{
+  "name": "Remix CareerAI – AI Resume and Career Coach",
+  "description": "AI-powered resume builder, target company analyzer, skill-gap career coach, ATS resume checker, and interview preparation platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
